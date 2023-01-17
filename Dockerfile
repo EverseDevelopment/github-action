@@ -1,4 +1,4 @@
-FROM nikolaik/python-nodejs:python3.8-nodejs13
+FROM nikolaik/python-nodejs:python3.8-nodejs16
 
 LABEL version="1.0.0"
 LABEL repository="https://github.com/serverless/github-action"
